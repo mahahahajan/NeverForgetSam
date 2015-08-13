@@ -1,0 +1,31 @@
+html body {
+  background-image: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; }
+  html body .container {
+    text-align: center; }
+    html body .container #title {
+      color: white; }
+    html body .container #mainSam {
+      border-radius: 100%; }
+    html body .container #quotes .samQuoteAndImage {
+      color: white;
+      text-align: center;
+      margin-left: 30%;
+      margin-right: 30%;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      background-color: rgba(114, 114, 114, 0.7); }
+    html body .container .ripSam {
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      color: #0099cc;
+      margin-left: 30%;
+      margin-right: 30%;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      padding-top: 30px;
+      padding-bottom: 30px; }
+
+/*# sourceMappingURL=main.css.map */
